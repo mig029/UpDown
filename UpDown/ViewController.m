@@ -317,7 +317,7 @@
         else if(zipCode == 254)
         {
             State = [NSString stringWithFormat:@"WV"];
-            answer = 2;
+            answer = 0;
         }
     
         else if(zipCode >= 270 && zipCode <= 289)
