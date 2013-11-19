@@ -405,7 +405,7 @@
             }
         }
 	
-        else if(zipCode >= 370 && zipCode <= 285)
+        else if(zipCode >= 370 && zipCode <= 385)
         {
             State = [NSString stringWithFormat:@"TN"];
             if(randomNum3 == 0){
